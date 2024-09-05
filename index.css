@@ -1,0 +1,85 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-image:url(bg.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    padding:30px 10px 50px 10px;
+}
+h1{
+    font-style: normal;
+    font-size: xx-large;
+    line-height: 96px;
+    font-family: 'Times New Roman', Times, serif;
+    color: whitesmoke;
+    text-align: center;
+    text-decoration: underline;
+}
+h2{
+    color: rgb(114, 79, 187);
+    margin-right: 25px;
+}
+#head_1{
+    color:rgb(203, 67, 167);
+    align-content: center;
+    font-size: x-large;
+    
+}
+#back_1{
+    color:chocolate;
+    align-content: center;
+    font-size: x-large;
+    font-weight: 900;
+    
+}
+#back_2{
+    color:rgb(26, 82, 171);
+    align-content: center;
+    font-size: x-large;
+    
+}
+#back_3{
+    color:rgb(228, 26, 26);
+    align-content: center;
+    font-size: x-large;
+    
+}
+#back_4{
+    color:rgb(11, 122, 122);
+    align-content: center;
+    font-size: x-large;
+    
+}
+#back_5{
+    color:gold;
+    align-content: center;
+    font-size: x-large;
+    
+}
+.css1{
+    
+    font-size:50px;
+    font-family: georgia;
+    font-style:italic;
+    font-weight:bold;
+    color: #519bcf;;
+    text-shadow: 2px 2px 8px #FF0000;
+  }
+button{
+    background-color: rgb(19, 169, 97);
+    color: beige;
+    box-shadow: none;
+    border-radius: 50px;
+    border:none;
+    width:200px;
+    height:50px;
+    font-size:30px;
+    float: right;
+}
+#logo
+{
+  height: 90px;
+  background-color:black;
+}
